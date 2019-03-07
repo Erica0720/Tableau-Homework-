@@ -11,3 +11,6 @@ Peak Hours for Summer and Winter
 Top and Bottom 10 Start and End Stations
 Popular Locations in City 
 Gender Distrubution 
+
+
+The larger excel file 2018 Clean Data was not added to the respository because it was too big and it went over the required 25MB.
